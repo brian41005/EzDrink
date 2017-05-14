@@ -1,0 +1,9 @@
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrinkTests\bin\Debug\EzDrinkTests.dll
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrinkTests\bin\Debug\EzDrinkTests.pdb
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrinkTests\bin\Debug\EzDrink.exe
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrinkTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrinkTests\bin\Debug\EzDrink.pdb
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrinkTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrinkTests\obj\Debug\EzDrinkTests.csprojResolveAssemblyReference.cache
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrinkTests\obj\Debug\EzDrinkTests.dll
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrinkTests\obj\Debug\EzDrinkTests.pdb

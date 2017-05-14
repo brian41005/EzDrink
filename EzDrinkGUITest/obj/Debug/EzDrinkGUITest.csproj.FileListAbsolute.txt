@@ -1,0 +1,5 @@
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrinkGUITest\bin\Debug\EzDrinkGUITest.dll
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrinkGUITest\bin\Debug\EzDrinkGUITest.pdb
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrinkGUITest\obj\Debug\EzDrinkGUITest.csprojResolveAssemblyReference.cache
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrinkGUITest\obj\Debug\EzDrinkGUITest.dll
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrinkGUITest\obj\Debug\EzDrinkGUITest.pdb

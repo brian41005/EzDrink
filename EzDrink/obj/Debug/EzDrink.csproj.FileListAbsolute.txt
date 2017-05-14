@@ -1,0 +1,9 @@
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrink\bin\Debug\EzDrink.exe.config
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrink\bin\Debug\EzDrink.exe
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrink\bin\Debug\EzDrink.pdb
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrink\obj\Debug\EzDrink.csprojResolveAssemblyReference.cache
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrink\obj\Debug\EzDrink.EzDrinkForm.resources
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrink\obj\Debug\EzDrink.Properties.Resources.resources
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrink\obj\Debug\EzDrink.csproj.GenerateResource.Cache
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrink\obj\Debug\EzDrink.exe
+C:\Users\brian\Documents\北科大\105_1\視窗程式\EzDrink\EzDrink\obj\Debug\EzDrink.pdb
